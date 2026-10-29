@@ -1,0 +1,3 @@
+# Exemplos fictícios para documentação; substitua apenas por contas de teste criadas por você.
+lab_usuario01
+lab_usuario02

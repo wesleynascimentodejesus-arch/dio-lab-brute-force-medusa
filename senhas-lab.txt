@@ -1,0 +1,3 @@
+# Exemplos fictícios e fracos para estudo em laboratório isolado; não usar em serviços reais.
+LabTeste123!
+SenhaFraca2026
